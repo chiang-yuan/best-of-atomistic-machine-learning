@@ -3142,10 +3142,10 @@ projects:
 - name: MLIP Arena Leaderboard
   homepage: https://huggingface.co/spaces/atomind/mlip-arena
   github_id: atomind-ai/mlip-arena
-  category: uip
-  labels: ["ml-iap", "benchmarking"]
+  category: ml-iap
+  labels: ["ml-iap", "benchmarking", "workflows", "md"]
   license: Apache-2.0
-  # pypi_id: None
+  pypi_id: mlip-arena
 - name: GRACE
   github_id: ICAMS/grace-tensorpotential
   category: uip
